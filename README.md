@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 
 # VanillaFuse
-## HTML sí es un lenguaje de programación.
+## *"Ahora sí es un lenguaje de programación"*
 
-Disfruta del facilísimo sintáxis de HTML y CSS para crear aplicaciones nativas para Windows y Linux.
+Disfruta del sintáxis de HTML y CSS para crear aplicaciones nativas para Windows y Linux.
